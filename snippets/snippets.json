@@ -1,0 +1,53 @@
+{
+  "NestJS Service": {
+    "prefix": "nest-nestService",
+    "body": [
+      "import { Injectable } from '@nestjs/common';",
+      "import { InjectModel } from '@nestjs/mongoose';",
+      "import { Model } from 'mongoose';",
+      "",
+      "@Injectable()",
+      "export class ${1:Auth}Service {",
+      "    constructor(",
+      "",
+      "    ) {}",
+      "}"
+    ],
+    "description": "NestJS Service template"
+  },
+
+  "NestJS Inject Model": {
+    "prefix": "nest-injectModel",
+    "body": [
+      "@InjectModel(${1:User}.name)",
+      "private ${2:userModel}: Model<${3:UserDocument}>"
+    ],
+    "description": "NestJS Mongoose InjectModel"
+  },
+
+  "NestJS Inject Service": {
+    "prefix": "nest-injectService",
+    "body": [
+      "private ${2:serviceName}: ${3:ServiceName},"
+    ],
+    "description":"NestJS Inject Service (example: EmailService -> private emailService: EmailService )"
+  },
+
+  "NestJS Controllers" : {
+    "prefix": "nest-controller",
+    "body": [
+      "import { Controller } from '@nestjs/common';",
+      "",
+      "",
+      "@Controller('api_path')",
+      "",
+      "export class ControllerName{",
+      "    constructor(",
+      "       private readonly serviceName: ServiceName",
+      "    ) {}",
+      "",
+      "}"
+    ],
+    "description": "NestJS Controllers (Example: UserController)"
+  }
+}

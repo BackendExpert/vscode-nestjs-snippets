@@ -1,0 +1,24 @@
+{
+  "name": "vscode-nestjs-snippets",
+  "displayName": "Vscode NestJs Snippets",
+  "description": "NestJS code snippets",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "main": "./extension.js",
+  "activationEvents": [
+    "*"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}

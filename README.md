@@ -1,5 +1,5 @@
-# NestJS snippets for Backend Development
+# NestJS Snippets for Backend Development
 
-<center>
-    <img src="nestjs.jpg">
-</center>
+<div align="center">
+  <img src="nestjs.jpg" alt="NestJS" />
+</div>

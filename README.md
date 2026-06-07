@@ -37,6 +37,36 @@ A collection of **NestJS VS Code snippets** designed to speed up backend develop
 | Inject Model | `nest-controller` | NestJS Controllers (Example: UserController) |
 
 
+## 🧑‍💻 Usage
+
+1. Open a `.ts` file in VS Code  
+2. Type the snippet prefix  
+3. Press `Tab` or `Ctrl + Space`
+
+## 📌 Example Snippets
+
+### NestJS Service
+
+- nest-nestService
+
+```ts
+
+import { Injectable } from '@nestjs/common';
+import { InjectModel } from '@nestjs/mongoose';
+import { Model } from 'mongoose';
+
+@Injectable()
+export class AuthService {
+    constructor(
+
+    ) {}
+}
+
+
+```
+
+
+
 ## Developed By
 
 Developed with ❤️ by Jehan Weerasuriya [Black Alpha Labs](https://www.blackalphalabs.com/)

@@ -1,13 +1,19 @@
 # NestJS Snippets for Backend Development
 
 <p align="center">
-
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    [![VS Code](https://img.shields.io/badge/VS%20Code-Extension-blue)](https://code.visualstudio.com/)
-    [![NestJS](https://img.shields.io/badge/NestJS-Backend-red)](https://nestjs.com/)
-    [![Developed By](https://img.shields.io/badge/Developed%20By-Black%20Alpha%20Labs-black)](https://www.blackalphalabs.com/)
-    [![Version](https://img.shields.io/badge/Version-0.0.1-green)]()
-
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-Extension-blue" alt="VS Code Extension">
+  </a>
+  <a href="https://nestjs.com/">
+    <img src="https://img.shields.io/badge/NestJS-Backend-red" alt="NestJS">
+  </a>
+  <a href="https://www.blackalphalabs.com/">
+    <img src="https://img.shields.io/badge/Developed%20By-Black%20Alpha%20Labs-black" alt="Black Alpha Labs">
+  </a>
+  <img src="https://img.shields.io/badge/Version-0.0.1-green" alt="Version">
 </p>
 
 

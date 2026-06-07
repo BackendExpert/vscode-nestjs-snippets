@@ -27,6 +27,14 @@
 A collection of **NestJS VS Code snippets** designed to speed up backend development by reducing repetitive boilerplate code.
 
 
+## ⚡ Snippets
+
+| Name | Prefix | Description |
+|------|--------|-------------|
+| NestJS Service | `nest-nestService` | Creates a NestJS service with Injectable decorator |
+| Inject Model | `nest-injectModel` | Mongoose InjectModel snippet for schema injection |
+| Inject Model | `nest-injectService` | NestJS Inject Service (example: EmailService -> private emailService: EmailService ) |
+| Inject Model | `nest-controller` | NestJS Controllers (Example: UserController) |
 
 
 ## Developed By

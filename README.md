@@ -8,19 +8,16 @@
 [![Version](https://img.shields.io/badge/Version-0.0.1-green)]()
 </p>
 
----
 
 <p align="center">
   <img src="nestjs.jpg" alt="NestJS Snippets" width="400"/>
 </p>
 
----
 
 ## 🚀 Overview
 
 A collection of **NestJS VS Code snippets** designed to speed up backend development by reducing repetitive boilerplate code.
 
----
 
 
 

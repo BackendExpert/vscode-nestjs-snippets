@@ -1,6 +1,6 @@
 # NestJS Snippets for Backend Development
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
   <img src="nestjs.jpg" alt="NestJS" />

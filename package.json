@@ -1,8 +1,10 @@
 {
-  "name": "vscode-nestjs-snippets",
-  "displayName": "Vscode NestJs Snippets",
+  "name": "vscode-nestjs-snippets-backend-development",
+  "displayName": "Vscode NestJs Snippets For Backend Development",
   "description": "NestJS code snippets",
-  "version": "0.0.1",
+  "publisher": "JehanWeerasuriya",
+  "icon": "nestjs.jpg",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.120.0"
   },
